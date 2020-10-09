@@ -1,7 +1,7 @@
 import React from "react";
 import SongList from "./SongList";
 import SongDetails from "./SongDetail";
-// Hello world
+
 const App = () => {
   return (
     <div className="ui container grid">
